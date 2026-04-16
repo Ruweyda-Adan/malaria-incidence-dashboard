@@ -53,13 +53,7 @@ An interactive Power BI dashboard was developed to visualize country-level and r
 * Leverage data-driven approaches for targeted interventions
 * Use similar dashboards to support public health policy decisions
 
----
 
-## 📸 Dashboard Preview
-
-*(Insert your screenshot here)*
-
----
 
 ## Project Impact
 
@@ -71,7 +65,6 @@ This project demonstrates how data analytics can be applied in a public health c
 
 It reflects the role of data science in **epidemiology and health research**, aligning with organizations such as KEMRI.
 
----
 
 ## Author
 
