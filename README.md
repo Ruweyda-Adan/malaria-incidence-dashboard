@@ -1,4 +1,4 @@
-# Malaria Incidence Analysis Dashboard (East Africa)
+# Malaria Incidence Analysis Dashboard 
 
 ## Overview
 This project analyzes malaria incidence trends across East African countries from 2000 to the latest available year using World Bank data.
